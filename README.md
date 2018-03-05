@@ -62,3 +62,5 @@ A "curated" list of consensus algorithms and distributed lock services.
 
 * [Byzantine Generals](https://research.microsoft.com/en-us/um/people/lamport/pubs/byz.pdf)
 * [Just say NO to Paxos Overhead: Replacing Consensus with Network Ordering](https://www.usenix.org/system/files/conference/osdi16/osdi16-li.pdf)
+* [Impossibility of Distributed Consensus with One Faulty
+Process - FLP](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)
