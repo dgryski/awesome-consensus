@@ -37,6 +37,7 @@ A "curated" list of consensus algorithms and distributed lock services.
 * [The Raft Consensus Algorithm](https://raft.github.io/)
 * [Raft: In Search of an Understandable Consensus Algorithm](https://ramcloud.stanford.edu/wiki/download/attachments/11370504/raft.pdf)
 * [Raft lecture (Raft user study)](https://www.youtube.com/watch?v=JEpsBg0AO6o)
+* [Raft Understandable Distributed Consensus Visualization](http://thesecretlivesofdata.com/raft/)
 
 ## Chubby
 
