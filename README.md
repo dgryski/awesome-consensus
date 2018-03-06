@@ -17,6 +17,8 @@ A "curated" list of consensus algorithms and distributed lock services.
 * [Neat Algorithms Paxos](http://harry.me/blog/2014/12/27/neat-algorithms-paxos/)
 * [Lessons Learned from Implementing Paxos](http://blog.willportnoy.com/2012/06/lessons-learned-from-paxos.html)
 * [Tencent/phxpaxos](https://github.com/Tencent/phxpaxos)
+* [Practical Experience Report: The Performance of Paxos in the Cloud](https://arxiv.org/abs/1404.6719)
+* [Paxos for System Builders](http://www.cnds.jhu.edu/pub/papers/cnds-2008-2.pdf)
 
 ## Zookeeper
 
