@@ -56,12 +56,17 @@ A "curated" list of consensus algorithms and distributed lock services.
 
 * [Formal Verification of Multi-Paxos for Distributed Consensus](https://arxiv.org/abs/1606.01387)
 
+## WPaxos
+
+* [WPaxos: Ruling the Archipelago with Fast Consensus](https://www.cse.buffalo.edu//tech-reports/2017-03.pdf)
+
 ## Distributed Consensus
 
 * [Heidi Howard - Distributed Consensus: Making Impossible Possible](https://www.youtube.com/watch?v=gYkueS5sKqo)
 
 ## Other
 
+* [Paxos Protocol Framework](https://github.com/ailidani/paxi)
 * [Byzantine Generals](https://research.microsoft.com/en-us/um/people/lamport/pubs/byz.pdf)
 * [Just say NO to Paxos Overhead: Replacing Consensus with Network Ordering](https://www.usenix.org/system/files/conference/osdi16/osdi16-li.pdf)
 * [Impossibility of Distributed Consensus with One Faulty Process - FLP](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)
