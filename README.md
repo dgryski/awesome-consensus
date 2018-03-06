@@ -3,6 +3,7 @@
 A "curated" list of consensus algorithms and distributed lock services.
 
 ## Paxos - Algorithm
+
 * [Wikipedia: Paxos](https://en.wikipedia.org/wiki/Paxos_(computer_science))
 * [Part-time Parliament](https://research.microsoft.com/en-us/um/people/lamport/pubs/lamport-paxos.pdf)
 * [Paxos made Practical](http://read.seas.harvard.edu/~kohler/class/08w-dsi/mazieres07paxos.pdf)
@@ -47,11 +48,12 @@ A "curated" list of consensus algorithms and distributed lock services.
 * [A TLA+ specification for Gryadka](https://medium.com/@grogepodge/tla-specification-for-gryadka-c80cd625944e)
 
 ## Fast Paxos
+
 * [Fast Paxos](https://www.microsoft.com/en-us/research/publication/fast-paxos/)
 * [Dr. TLA+ Series - Fast Paxos](https://www.youtube.com/watch?v=eW6Zv0X53T4)
 
-
 ## EPaxos
+
 * [There is more consensus in egalitarian parliaments (paper)](https://www.cs.cmu.edu/~dga/papers/epaxos-sosp2013.pdf)
 * [There is more consensus in egalitarian parliaments (video)](https://www.youtube.com/watch?v=KxoWlUZNKn8)
 * [efficient/epaxos](https://github.com/efficient/epaxos)
