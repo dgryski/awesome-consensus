@@ -4,10 +4,10 @@ A "curated" list of consensus algorithms and distributed lock services.
 
 ## Paxos - Algorithm
 
-* [Wikipedia: Paxos](https://en.wikipedia.org/wiki/Paxos_(computer_science))
 * [Part-time Parliament](https://research.microsoft.com/en-us/um/people/lamport/pubs/lamport-paxos.pdf)
-* [Paxos made Practical](http://read.seas.harvard.edu/~kohler/class/08w-dsi/mazieres07paxos.pdf)
 * [Paxos made Simple](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
+* [Paxos made Practical](http://read.seas.harvard.edu/~kohler/class/08w-dsi/mazieres07paxos.pdf)
+* [Wikipedia: Paxos](https://en.wikipedia.org/wiki/Paxos_(computer_science))
 * [Paxos lecture (Raft user study)](https://www.youtube.com/watch?v=JEpsBg0AO6o)
 * [The Paxos Algorithm (Google Tech Talk by Luis Quesada Torres)](https://www.youtube.com/watch?v=d7nAGI_NZPk)
 * [[Dr. TLA+ Series] Paxos - Andrew Helwer](https://www.youtube.com/watch?v=zCaJSrTmUFA)
