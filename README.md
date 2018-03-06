@@ -14,6 +14,8 @@ A curated selection of artisanal consensus algorithms and hand-crafted distribut
 * [Paxos Agreement - Computerphile](https://www.youtube.com/watch?v=s8JqcZtvnsM)
 * [Paxos Simplified by Chris Colohan](https://www.youtube.com/watch?v=SRsK-ZXTeZ0)
 * [Neat Algorithms: Paxos Visualized](http://harry.me/blog/2014/12/27/neat-algorithms-paxos/)
+* [Model Checking Paxos in Spin](https://arxiv.org/abs/1408.5962)
+* [Paxos Consensus, Deconstructed and Abstracted (Extended Version)](https://arxiv.org/abs/1802.05969)
 
 ## Paxos - Engineering
 
@@ -26,7 +28,9 @@ A curated selection of artisanal consensus algorithms and hand-crafted distribut
 * [Paxos made Live](http://research.google.com/pubs/pub33002.html)
 * [Paxos made code: Implementing a high throughput Atomic Broadcast](http://www.inf.usi.ch/faculty/pedone/MScThesis/marco.pdf), [libpaxos](https://bitbucket.org/sciascid/libpaxos)
 * [500 lines or less: Clustering by Consensus](http://www.aosabook.org/en/500L/clustering-by-consensus.html)
-* [Practical Experience Report: The Performance of Paxos in the Cloud ](https://arxiv.org/abs/1404.6719)
+* [Practical Experience Report: The Performance of Paxos in the Cloud](https://arxiv.org/abs/1404.6719)
+* [ScalienDB: Designing and Implementing a Distributed Database using Paxos](https://arxiv.org/abs/1302.3860)
+* [Seamless Paxos Coordinators](https://arxiv.org/abs/1710.07845)
 
 ## Zookeeper
 
@@ -39,6 +43,7 @@ A curated selection of artisanal consensus algorithms and hand-crafted distribut
 * [Raft: In Search of an Understandable Consensus Algorithm](https://ramcloud.stanford.edu/wiki/download/attachments/11370504/raft.pdf)
 * [Raft lecture (Raft user study)](https://www.youtube.com/watch?v=JEpsBg0AO6o)
 * [Raft Understandable Distributed Consensus Visualization](http://thesecretlivesofdata.com/raft/)
+* [Ark: A Real-World Consensus Implementation](https://arxiv.org/abs/1407.4765)
 
 ## Chubby
 
@@ -55,11 +60,19 @@ A curated selection of artisanal consensus algorithms and hand-crafted distribut
 
 * [Fast Paxos](https://www.microsoft.com/en-us/research/publication/fast-paxos/)
 * [Dr. TLA+ Series - Fast Paxos](https://www.youtube.com/watch?v=eW6Zv0X53T4)
+* [The Performance of Paxos and Fast Paxos](https://arxiv.org/abs/1308.1358)
+* [On the Coordinator's Rule for Fast Paxos](https://arxiv.org/abs/1710.08047)
+
+## AllConcur
+
+* [AllConcur: Leaderless Concurrent Atomic Broadcast (Extended Version)](https://arxiv.org/abs/1608.05866)
+* [Formal Specification and Safety Proof of a Leaderless Concurrent Atomic Broadcast Algorithm](https://arxiv.org/abs/1708.04863)
 
 ## Multi-Paxos
 
 * [Formal Verification of Multi-Paxos for Distributed Consensus](https://arxiv.org/abs/1606.01387)
 * [Multi-Paxos: An Implementation and Evaluation](https://www.cs.washington.edu/tr/2009/09/UW-CSE-09-09-02.PDF)
+* [Moderately Complex Paxos Made Simple: High-Level Specification of Distributed Algorithm](https://arxiv.org/abs/1704.00082)
 
 ## Other Paxos Variants
 
@@ -68,6 +81,8 @@ A curated selection of artisanal consensus algorithms and hand-crafted distribut
 * [Designing Distributed Systems Using Approximate Synchrony in Data Center Networks](https://syslab.cs.washington.edu/papers/specpaxos-nsdi15.pdf), [UWSysLab/specpaxos](https://github.com/UWSysLab/specpaxos)
 * [WPaxos: Ruling the Archipelago with Fast Consensus](https://www.cse.buffalo.edu//tech-reports/2017-03.pdf)
 * [Paxos Quorum Leases: Fast Reads Without Sacrificing Writes](http://www.pdl.cmu.edu/PDL-FTP/associated/moraru-socc14.pdf)
+* [Self-Stabilizing Paxos](https://arxiv.org/abs/1305.4263)
+* [Generalized Paxos Made Byzantine (and Less Complex)](https://arxiv.org/abs/1708.07575)
 
 ## Distributed Consensus
 
