@@ -52,23 +52,15 @@ A "curated" list of consensus algorithms and distributed lock services.
 * [Fast Paxos](https://www.microsoft.com/en-us/research/publication/fast-paxos/)
 * [Dr. TLA+ Series - Fast Paxos](https://www.youtube.com/watch?v=eW6Zv0X53T4)
 
-## EPaxos
-
-* [There is more consensus in egalitarian parliaments (paper)](https://www.cs.cmu.edu/~dga/papers/epaxos-sosp2013.pdf)
-* [There is more consensus in egalitarian parliaments (video)](https://www.youtube.com/watch?v=KxoWlUZNKn8)
-* [efficient/epaxos](https://github.com/efficient/epaxos)
-
 ## Multi-Paxos
 
 * [Formal Verification of Multi-Paxos for Distributed Consensus](https://arxiv.org/abs/1606.01387)
 
-## Speculative Paxos
+## Other Paxos Variants
 
-* [Designing Distributed Systems Using Approximate Synchrony in Data Center Networks](https://syslab.cs.washington.edu/papers/specpaxos-nsdi15.pdf)
-* [UWSysLab/specpaxos](https://github.com/UWSysLab/specpaxos)
-
-## WPaxos
-
+* [There is more consensus in egalitarian parliaments (paper)](https://www.cs.cmu.edu/~dga/papers/epaxos-sosp2013.pdf), [video](https://www.youtube.com/watch?v=KxoWlUZNKn8), [efficient/epaxos](https://github.com/efficient/epaxos)
+* [Flexible Paxos: Quorum intersection revisited](https://fpaxos.github.io/)
+* [Designing Distributed Systems Using Approximate Synchrony in Data Center Networks](https://syslab.cs.washington.edu/papers/specpaxos-nsdi15.pdf), [UWSysLab/specpaxos](https://github.com/UWSysLab/specpaxos)
 * [WPaxos: Ruling the Archipelago with Fast Consensus](https://www.cse.buffalo.edu//tech-reports/2017-03.pdf)
 
 ## Distributed Consensus
