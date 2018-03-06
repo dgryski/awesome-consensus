@@ -24,6 +24,8 @@ A "curated" list of consensus algorithms and distributed lock services.
 * [Using Paxos to Build a Scalable, Consistent, and Highly Available Datastore](https://arxiv.org/abs/1103.2408)
 * [Paxos made Moderately Complex](http://www.cs.cornell.edu/courses/cs7412/2011sp/paxos.pdf), [website](http://paxos.systems/)
 * [Paxos made Live](http://research.google.com/pubs/pub33002.html)
+* [Paxos made code: Implementing a high throughput Atomic Broadcast](http://www.inf.usi.ch/faculty/pedone/MScThesis/marco.pdf), [libpaxos](https://bitbucket.org/sciascid/libpaxos)
+* [500 lines or less: Clustering by Consensus](http://www.aosabook.org/en/500L/clustering-by-consensus.html)
 
 ## Zookeeper
 
@@ -55,18 +57,21 @@ A "curated" list of consensus algorithms and distributed lock services.
 ## Multi-Paxos
 
 * [Formal Verification of Multi-Paxos for Distributed Consensus](https://arxiv.org/abs/1606.01387)
+* [Multi-Paxos: An Implementation and Evaluation](ftp://ftp.cs.washington.edu/tr/2009/09/UW-CSE-09-09-02.PDF)
 
 ## Other Paxos Variants
 
 * [There is more consensus in egalitarian parliaments (paper)](https://www.cs.cmu.edu/~dga/papers/epaxos-sosp2013.pdf), [video](https://www.youtube.com/watch?v=KxoWlUZNKn8), [efficient/epaxos](https://github.com/efficient/epaxos)
-* [Flexible Paxos: Quorum intersection revisited](https://fpaxos.github.io/)
+* [Flexible Paxos: Quorum intersection revisited](https://fpaxos.github.io/), [Dr TLA+ talk](https://www.youtube.com/watch?v=LX-WK8EmoFE)
 * [Designing Distributed Systems Using Approximate Synchrony in Data Center Networks](https://syslab.cs.washington.edu/papers/specpaxos-nsdi15.pdf), [UWSysLab/specpaxos](https://github.com/UWSysLab/specpaxos)
 * [WPaxos: Ruling the Archipelago with Fast Consensus](https://www.cse.buffalo.edu//tech-reports/2017-03.pdf)
+* [Paxos Quorum Leases: Fast Reads Without Sacrificing Writes](http://www.pdl.cmu.edu/PDL-FTP/associated/moraru-socc14.pdf)
 
 ## Distributed Consensus
 
 * [Heidi Howard - Distributed Consensus: Making Impossible Possible](https://www.youtube.com/watch?v=gYkueS5sKqo)
 * [Can’t we all just agree?](https://blog.acolyer.org/2015/03/01/cant-we-all-just-agree/) -- 10 part blog series on distributed consensus algorithms
+* [Consensus in the Cloud: Paxos Systems Demystified](https://www.cse.buffalo.edu/tech-reports/2016-02.pdf)
 
 ## Other
 
