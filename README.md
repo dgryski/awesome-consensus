@@ -2,23 +2,27 @@
 
 A "curated" list of consensus algorithms and distributed lock services.
 
-## Paxos
+## Paxos - Algorithm
 * [Wikipedia: Paxos](https://en.wikipedia.org/wiki/Paxos_(computer_science))
 * [Part-time Parliament](https://research.microsoft.com/en-us/um/people/lamport/pubs/lamport-paxos.pdf)
 * [Paxos made Practical](http://read.seas.harvard.edu/~kohler/class/08w-dsi/mazieres07paxos.pdf)
 * [Paxos made Simple](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
-* [Paxos made Moderately Complex](http://www.cs.cornell.edu/courses/cs7412/2011sp/paxos.pdf), [website](http://paxos.systems/)
-* [Paxos made Live](http://research.google.com/pubs/pub33002.html)
 * [Paxos lecture (Raft user study)](https://www.youtube.com/watch?v=JEpsBg0AO6o)
 * [The Paxos Algorithm (Google Tech Talk by Luis Quesada Torres)](https://www.youtube.com/watch?v=d7nAGI_NZPk)
 * [[Dr. TLA+ Series] Paxos - Andrew Helwer](https://www.youtube.com/watch?v=zCaJSrTmUFA)
 * [Paxos Agreement - Computerphile](https://www.youtube.com/watch?v=s8JqcZtvnsM)
 * [Paxos Simplified by Chris Colohan](https://www.youtube.com/watch?v=SRsK-ZXTeZ0)
 * [Neat Algorithms Paxos](http://harry.me/blog/2014/12/27/neat-algorithms-paxos/)
+
+## Paxos - Engineering
+
 * [Lessons Learned from Implementing Paxos](http://blog.willportnoy.com/2012/06/lessons-learned-from-paxos.html)
 * [Tencent/phxpaxos](https://github.com/Tencent/phxpaxos)
 * [Practical Experience Report: The Performance of Paxos in the Cloud](https://arxiv.org/abs/1404.6719)
 * [Paxos for System Builders](http://www.cnds.jhu.edu/pub/papers/cnds-2008-2.pdf)
+* [Using Paxos to Build a Scalable, Consistent, and Highly Available Datastore](https://arxiv.org/abs/1103.2408)
+* [Paxos made Moderately Complex](http://www.cs.cornell.edu/courses/cs7412/2011sp/paxos.pdf), [website](http://paxos.systems/)
+* [Paxos made Live](http://research.google.com/pubs/pub33002.html)
 
 ## Zookeeper
 
