@@ -62,6 +62,11 @@ A "curated" list of consensus algorithms and distributed lock services.
 
 * [Formal Verification of Multi-Paxos for Distributed Consensus](https://arxiv.org/abs/1606.01387)
 
+## Speculative Paxos
+
+* [Designing Distributed Systems Using Approximate Synchrony in Data Center Networks](https://syslab.cs.washington.edu/papers/specpaxos-nsdi15.pdf)
+* [UWSysLab/specpaxos](https://github.com/UWSysLab/specpaxos)
+
 ## WPaxos
 
 * [WPaxos: Ruling the Archipelago with Fast Consensus](https://www.cse.buffalo.edu//tech-reports/2017-03.pdf)
