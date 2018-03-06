@@ -58,7 +58,7 @@ A "curated" list of consensus algorithms and distributed lock services.
 ## Multi-Paxos
 
 * [Formal Verification of Multi-Paxos for Distributed Consensus](https://arxiv.org/abs/1606.01387)
-* [Multi-Paxos: An Implementation and Evaluation](ftp://ftp.cs.washington.edu/tr/2009/09/UW-CSE-09-09-02.PDF)
+* [Multi-Paxos: An Implementation and Evaluation](https://www.cs.washington.edu/tr/2009/09/UW-CSE-09-09-02.PDF)
 
 ## Other Paxos Variants
 
