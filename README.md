@@ -44,7 +44,7 @@ A "curated" list of consensus algorithms and distributed lock services.
 * [The Chubby Lock Service for Loosely-Coupled Distributed Systems](https://research.google.com/archive/chubby.html)
 * [Papers We Love](https://www.youtube.com/watch?v=kX9Z0F-eTt4) 
 
-## CAXPaxos
+## CASPaxos
 
 * [CASPaxos: Replicated State Machines without logs](https://arxiv.org/abs/1802.07000)
 * [Paxos on Steroids and a Crash Course in TLA+](https://tschottdorf.github.io/single-decree-paxos-tla-compare-and-swap)
