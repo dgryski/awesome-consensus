@@ -26,6 +26,7 @@ A curated selection of artisanal consensus algorithms and hand-crafted distribut
 * [Paxos made Live](http://research.google.com/pubs/pub33002.html)
 * [Paxos made code: Implementing a high throughput Atomic Broadcast](http://www.inf.usi.ch/faculty/pedone/MScThesis/marco.pdf), [libpaxos](https://bitbucket.org/sciascid/libpaxos)
 * [500 lines or less: Clustering by Consensus](http://www.aosabook.org/en/500L/clustering-by-consensus.html)
+* [Practical Experience Report: The Performance of Paxos in the Cloud ](https://arxiv.org/abs/1404.6719)
 
 ## Zookeeper
 
