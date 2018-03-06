@@ -67,6 +67,7 @@ A "curated" list of consensus algorithms and distributed lock services.
 ## Distributed Consensus
 
 * [Heidi Howard - Distributed Consensus: Making Impossible Possible](https://www.youtube.com/watch?v=gYkueS5sKqo)
+* [Can’t we all just agree?](https://blog.acolyer.org/2015/03/01/cant-we-all-just-agree/) -- 10 part blog series on distributed consensus algorithms
 
 ## Other
 
