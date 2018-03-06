@@ -1,6 +1,6 @@
 # Awesome Consensus
 
-A "curated" list of consensus algorithms and distributed lock services.
+A curated selection of artisanal consensus algorithms and hand-crafted distributed lock services.
 
 ## Paxos - Algorithm
 
