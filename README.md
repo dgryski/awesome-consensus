@@ -13,7 +13,7 @@ A "curated" list of consensus algorithms and distributed lock services.
 * [[Dr. TLA+ Series] Paxos - Andrew Helwer](https://www.youtube.com/watch?v=zCaJSrTmUFA)
 * [Paxos Agreement - Computerphile](https://www.youtube.com/watch?v=s8JqcZtvnsM)
 * [Paxos Simplified by Chris Colohan](https://www.youtube.com/watch?v=SRsK-ZXTeZ0)
-* [Neat Algorithms Paxos](http://harry.me/blog/2014/12/27/neat-algorithms-paxos/)
+* [Neat Algorithms: Paxos Visualized](http://harry.me/blog/2014/12/27/neat-algorithms-paxos/)
 
 ## Paxos - Engineering
 
