@@ -85,6 +85,7 @@ A curated selection of artisanal consensus algorithms and hand-crafted distribut
 * [Paxos Quorum Leases: Fast Reads Without Sacrificing Writes](http://www.pdl.cmu.edu/PDL-FTP/associated/moraru-socc14.pdf)
 * [Self-Stabilizing Paxos](https://arxiv.org/abs/1305.4263)
 * [Generalized Paxos Made Byzantine (and Less Complex)](https://arxiv.org/abs/1708.07575)
+* [PaxosLease: Diskless Paxos for Leases](https://arxiv.org/abs/1209.4187)
 
 ## Distributed Consensus
 
