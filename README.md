@@ -45,6 +45,7 @@ A curated selection of artisanal consensus algorithms and hand-crafted distribut
 * [Raft lecture (Raft user study)](https://www.youtube.com/watch?v=JEpsBg0AO6o)
 * [Raft Understandable Distributed Consensus Visualization](http://thesecretlivesofdata.com/raft/)
 * [Ark: A Real-World Consensus Implementation](https://arxiv.org/abs/1407.4765)
+* [Understanding performance aspects of etcd and Raft - Hitoshi Mitake, NTT Laboratories](https://www.youtube.com/watch?v=snG3kSdGTrA)
 
 ## Chubby
 
