@@ -31,6 +31,7 @@ A curated selection of artisanal consensus algorithms and hand-crafted distribut
 * [Practical Experience Report: The Performance of Paxos in the Cloud](https://arxiv.org/abs/1404.6719)
 * [ScalienDB: Designing and Implementing a Distributed Database using Paxos](https://arxiv.org/abs/1302.3860)
 * [Seamless Paxos Coordinators](https://arxiv.org/abs/1710.07845)
+* [IronFleet: Proving Practical Distributed Systems Correct](https://www.microsoft.com/en-us/research/publication/ironfleet-proving-practical-distributed-systems-correct/)
 
 ## Zookeeper
 
