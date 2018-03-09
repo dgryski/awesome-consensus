@@ -2,6 +2,8 @@
 
 A curated selection of artisanal consensus algorithms and hand-crafted distributed lock services.
 
+- [A brief history of Consensus, 2PC and Transaction Commit](http://betathoughts.blogspot.com/2007/06/brief-history-of-consensus-2pc-and.html)
+
 ## Paxos - Algorithm
 
 * [Part-time Parliament](https://research.microsoft.com/en-us/um/people/lamport/pubs/lamport-paxos.pdf)
