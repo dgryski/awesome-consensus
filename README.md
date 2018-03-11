@@ -52,6 +52,12 @@ A curated selection of artisanal consensus algorithms and hand-crafted distribut
 * [The Chubby Lock Service for Loosely-Coupled Distributed Systems](https://research.google.com/archive/chubby.html)
 * [Papers We Love](https://www.youtube.com/watch?v=kX9Z0F-eTt4) 
 
+## Viewstamped Replication
+
+* [Viewstamped Replication: A New Primary Copy Method to Support Highly-Available Distributed Systems](http://www.cs.princeton.edu/courses/archive/fall09/cos518/papers/viewstamped.pdf) Liskov '88
+* [Viewstamped Replication Revisited](http://pmg.csail.mit.edu/papers/vr-revisited.pdf)
+* [From Viewstamped Replication to Byzantine Fault Tolerance](http://www.pmg.csail.mit.edu/papers/vr-to-bft.pdf)
+
 ## CASPaxos
 
 * [CASPaxos: Replicated State Machines without logs](https://arxiv.org/abs/1802.07000)
