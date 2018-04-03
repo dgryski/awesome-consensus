@@ -42,6 +42,8 @@ A curated selection of artisanal consensus algorithms and hand-crafted distribut
 * [The Raft Consensus Algorithm](https://raft.github.io/)
 * [Raft: In Search of an Understandable Consensus Algorithm](https://ramcloud.stanford.edu/wiki/download/attachments/11370504/raft.pdf)
 * [Raft lecture (Raft user study)](https://www.youtube.com/watch?v=JEpsBg0AO6o)
+* [ARC: Analysis of Raft Consensus](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-857.pdf)
+* [Raft Refloated: Do We Have Consensus?](https://www.cl.cam.ac.uk/~ms705/pub/papers/2015-osr-raft.pdf)
 * [Raft Understandable Distributed Consensus Visualization](http://thesecretlivesofdata.com/raft/)
 * [Ark: A Real-World Consensus Implementation](https://arxiv.org/abs/1407.4765)
 * [Understanding performance aspects of etcd and Raft - Hitoshi Mitake, NTT Laboratories](https://www.youtube.com/watch?v=snG3kSdGTrA)
