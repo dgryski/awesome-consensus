@@ -99,6 +99,8 @@ A curated selection of artisanal consensus algorithms and hand-crafted distribut
 * [Heidi Howard - Distributed Consensus: Making Impossible Possible](https://www.youtube.com/watch?v=gYkueS5sKqo)
 * [Can’t we all just agree?](https://blog.acolyer.org/2015/03/01/cant-we-all-just-agree/) -- 10 part blog series on distributed consensus algorithms
 * [Consensus in the Cloud: Paxos Systems Demystified](https://www.cse.buffalo.edu/tech-reports/2016-02.pdf)
+* [https://medium.com/databasss/on-ways-to-agree-part-1-links-and-flp-impossibility-f6bd8a6a0980](On Ways to Agree: DistSys Vocabulary)
+* [https://medium.com/databasss/on-ways-to-agree-part-2-path-to-atomic-broadcast-662cc86a4e5f](On Ways to Agree: Path to Atomic Broadcast)
 
 ## Other
 
