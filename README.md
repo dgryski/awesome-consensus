@@ -108,6 +108,9 @@ A curated selection of artisanal consensus algorithms and hand-crafted distribut
 * [A brief history of Consensus, 2PC and Transaction Commit](https://betathoughts.blogspot.com/2007/06/brief-history-of-consensus-2pc-and.html)
 * [Paxos Protocol Framework](https://github.com/ailidani/paxi)
 * [Byzantine Generals](https://research.microsoft.com/en-us/um/people/lamport/pubs/byz.pdf)
+* [Practical Byzantine Fault Tolerance](http://pmg.csail.mit.edu/papers/osdi99.pdf)
 * [Just say NO to Paxos Overhead: Replacing Consensus with Network Ordering](https://www.usenix.org/system/files/conference/osdi16/osdi16-li.pdf)
 * [Impossibility of Distributed Consensus with One Faulty Process - FLP](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)
 * [Practical Byzantine Fault Tolerance and Proactive Recovery](http://www.pmg.csail.mit.edu/papers/bft-tocs.pdf)
+* [Vive La Difference: Paxos vs. Viewstamped Replication vs. Zab](https://www.cs.cornell.edu/fbs/publications/viveLaDifference.pdf)
+
