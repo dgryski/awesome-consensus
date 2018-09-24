@@ -34,7 +34,7 @@ A curated selection of artisanal consensus algorithms and hand-crafted distribut
 
 ## Zookeeper
 
-* [Zab: A Simple Totally Ordered Broadcast Protocol](http://research.yahoo.com/files/ladis08.pdf)
+* [Zab: A Simple Totally Ordered Broadcast Protocol](https://www.datadoghq.com/pdf/zab.totally-ordered-broadcast-protocol.2008.pdf)
 * [ZooKeeper: Wait-free coordination for Internet-scale systems](http://static.usenix.org/event/usenix10/tech/full_papers/Hunt.pdf)
 
 ## Raft
