@@ -113,4 +113,4 @@ A curated selection of artisanal consensus algorithms and hand-crafted distribut
 * [Impossibility of Distributed Consensus with One Faulty Process - FLP](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)
 * [Practical Byzantine Fault Tolerance and Proactive Recovery](http://www.pmg.csail.mit.edu/papers/bft-tocs.pdf)
 * [Vive La Difference: Paxos vs. Viewstamped Replication vs. Zab](https://www.cs.cornell.edu/fbs/publications/viveLaDifference.pdf)
-
+* [Aleph: A Leaderless, Asynchronous, Byzantine Fault Tolerant Consensus Protocol](https://arxiv.org/abs/1810.05256)
