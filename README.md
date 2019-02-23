@@ -101,6 +101,8 @@ A curated selection of artisanal consensus algorithms and hand-crafted distribut
 * [Consensus in the Cloud: Paxos Systems Demystified](https://www.cse.buffalo.edu/tech-reports/2016-02.pdf)
 * [On Ways to Agree: DistSys Vocabulary](https://medium.com/databasss/on-ways-to-agree-part-1-links-and-flp-impossibility-f6bd8a6a0980)
 * [On Ways to Agree: Path to Atomic Broadcast](https://medium.com/databasss/on-ways-to-agree-part-2-path-to-atomic-broadcast-662cc86a4e5f)
+* [A Generalised Solution to Distributed Consensus](https://arxiv.org/abs/1902.06776)
+
 
 ## Other
 
