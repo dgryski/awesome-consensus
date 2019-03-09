@@ -102,7 +102,7 @@ A curated selection of artisanal consensus algorithms and hand-crafted distribut
 * [On Ways to Agree: DistSys Vocabulary](https://medium.com/databasss/on-ways-to-agree-part-1-links-and-flp-impossibility-f6bd8a6a0980)
 * [On Ways to Agree: Path to Atomic Broadcast](https://medium.com/databasss/on-ways-to-agree-part-2-path-to-atomic-broadcast-662cc86a4e5f)
 * [A Generalised Solution to Distributed Consensus](https://arxiv.org/abs/1902.06776), [morning paper summary](https://blog.acolyer.org/2019/03/08/a-generalised-solution-to-distributed-consensus/)
-
+* [Paxosmon: Gotta Consensus Them All: A detailed summary of many different Paxos variants](https://vadosware.io/post/paxosmon-gotta-concensus-them-all/)
 
 ## Other
 
