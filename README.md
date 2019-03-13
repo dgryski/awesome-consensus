@@ -96,6 +96,10 @@ A curated selection of artisanal consensus algorithms and hand-crafted distribut
 * [Generalized Paxos Made Byzantine (and Less Complex)](https://arxiv.org/abs/1708.07575)
 * [PaxosLease: Diskless Paxos for Leases](https://arxiv.org/abs/1209.4187)
 
+## Stellar
+* [The Stellar Consensus Protocol: A Federated Model for Internet-level Consensus](https://www.stellar.org/papers/stellar-consensus-protocol.pdf)
+* [Understanding the Stellar Consensus Protocol](https://medium.com/interstellar/understanding-the-stellar-consensus-protocol-423409aad32e)
+
 ## Distributed Consensus
 
 * [Heidi Howard - Distributed Consensus: Making Impossible Possible](https://www.youtube.com/watch?v=gYkueS5sKqo)
