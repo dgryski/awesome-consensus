@@ -64,7 +64,7 @@ A curated selection of artisanal consensus algorithms and hand-crafted distribut
 ## CASPaxos
 
 * [CASPaxos: Replicated State Machines without logs](https://arxiv.org/abs/1802.07000)
-* [Paxos on Steroids and a Crash Course in TLA+](https://tschottdorf.github.io/single-decree-paxos-tla-compare-and-swap)
+* [Paxos on Steroids and a Crash Course in TLA+](http://tbg.github.io/single-decree-paxos-tla-compare-and-swap)
 * [A TLA+ specification for Gryadka](https://medium.com/@grogepodge/tla-specification-for-gryadka-c80cd625944e)
 
 ## Fast Paxos
