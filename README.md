@@ -109,6 +109,8 @@ A curated selection of artisanal consensus algorithms and hand-crafted distribut
 * [On Ways to Agree: Path to Atomic Broadcast](https://medium.com/databasss/on-ways-to-agree-part-2-path-to-atomic-broadcast-662cc86a4e5f)
 * [A Generalised Solution to Distributed Consensus](https://arxiv.org/abs/1902.06776), [morning paper summary](https://blog.acolyer.org/2019/03/08/a-generalised-solution-to-distributed-consensus/)
 * [Paxosmon: Gotta Consensus Them All: A detailed summary of many different Paxos variants](https://vadosware.io/post/paxosmon-gotta-concensus-them-all/)
+* [Consensus in Presensus of Partial Synchrony](https://groups.csail.mit.edu/tds/papers/Lynch/jacm88.pdf)
+* [The latest gossip on BFT consensus](https://arxiv.org/abs/1807.04938)
 
 ## Other
 
@@ -122,3 +124,6 @@ A curated selection of artisanal consensus algorithms and hand-crafted distribut
 * [Practical Byzantine Fault Tolerance and Proactive Recovery](http://www.pmg.csail.mit.edu/papers/bft-tocs.pdf)
 * [Vive La Difference: Paxos vs. Viewstamped Replication vs. Zab](https://www.cs.cornell.edu/fbs/publications/viveLaDifference.pdf)
 * [Aleph: A Leaderless, Asynchronous, Byzantine Fault Tolerant Consensus Protocol](https://arxiv.org/abs/1810.05256)
+* [Flexible Byzantine Fault-Tolerance](https://arxiv.org/abs/1904.10067)
+
+
