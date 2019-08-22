@@ -125,5 +125,6 @@ A curated selection of artisanal consensus algorithms and hand-crafted distribut
 * [Vive La Difference: Paxos vs. Viewstamped Replication vs. Zab](https://www.cs.cornell.edu/fbs/publications/viveLaDifference.pdf)
 * [Aleph: A Leaderless, Asynchronous, Byzantine Fault Tolerant Consensus Protocol](https://arxiv.org/abs/1810.05256)
 * [Flexible Byzantine Fault-Tolerance](https://arxiv.org/abs/1904.10067)
+* [Delegated Byzantine Fault Tolerance](https://raw.githubusercontent.com/NeoResearch/yellowpaper/master/releases/08_dBFT.pdf)
 
 
