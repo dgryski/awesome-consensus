@@ -51,6 +51,12 @@ A curated selection of artisanal consensus algorithms and hand-crafted distribut
 * [Understanding performance aspects of etcd and Raft - Hitoshi Mitake, NTT Laboratories](https://www.youtube.com/watch?v=snG3kSdGTrA)
 * [Raft does not Guarantee Liveness in the face of Network Faults](https://decentralizedthoughts.github.io/2020-12-12-raft-liveness-full-omission/)
 
+## Raft - Engineering
+
+* [braft](https://github.com/baidu/braft)
+* [sofa-jraft](https://github.com/sofastack/sofa-jraft)
+
+
 ## Chubby
 
 * [The Chubby Lock Service for Loosely-Coupled Distributed Systems](https://research.google.com/archive/chubby.html)
