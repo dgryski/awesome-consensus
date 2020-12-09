@@ -50,6 +50,12 @@ A curated selection of artisanal consensus algorithms and hand-crafted distribut
 * [Ark: A Real-World Consensus Implementation](https://arxiv.org/abs/1407.4765)
 * [Understanding performance aspects of etcd and Raft - Hitoshi Mitake, NTT Laboratories](https://www.youtube.com/watch?v=snG3kSdGTrA)
 
+## Raft - Engineering
+
+* [braft](https://github.com/baidu/braft)
+* [sofa-jraft](https://github.com/sofastack/sofa-jraft)
+
+
 ## Chubby
 
 * [The Chubby Lock Service for Loosely-Coupled Distributed Systems](https://research.google.com/archive/chubby.html)
