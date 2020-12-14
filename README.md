@@ -49,6 +49,7 @@ A curated selection of artisanal consensus algorithms and hand-crafted distribut
 * [Raft Understandable Distributed Consensus Visualization](http://thesecretlivesofdata.com/raft/)
 * [Ark: A Real-World Consensus Implementation](https://arxiv.org/abs/1407.4765)
 * [Understanding performance aspects of etcd and Raft - Hitoshi Mitake, NTT Laboratories](https://www.youtube.com/watch?v=snG3kSdGTrA)
+* [Raft does not Guarantee Liveness in the face of Network Faults](https://decentralizedthoughts.github.io/2020-12-12-raft-liveness-full-omission/)
 
 ## Chubby
 
