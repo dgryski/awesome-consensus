@@ -55,7 +55,7 @@ A curated selection of artisanal consensus algorithms and hand-crafted distribut
 
 * [braft](https://github.com/baidu/braft)
 * [sofa-jraft](https://github.com/sofastack/sofa-jraft)
-
+* [dragonboat](https://github.com/lni/dragonboat)
 
 ## Chubby
 
