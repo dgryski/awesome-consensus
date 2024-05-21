@@ -33,6 +33,7 @@ A curated selection of artisanal consensus algorithms and hand-crafted distribut
 * [ScalienDB: Designing and Implementing a Distributed Database using Paxos](https://arxiv.org/abs/1302.3860)
 * [Seamless Paxos Coordinators](https://arxiv.org/abs/1710.07845)
 * [IronFleet: Proving Practical Distributed Systems Correct](https://www.microsoft.com/en-us/research/publication/ironfleet-proving-practical-distributed-systems-correct/)
+* [Low-Overhead Paxos Replication](https://link.springer.com/article/10.1007/s41019-017-0039-z)
 
 ## Zookeeper
 
