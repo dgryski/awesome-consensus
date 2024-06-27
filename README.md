@@ -119,6 +119,7 @@ A curated selection of artisanal consensus algorithms and hand-crafted distribut
 * [Paxosmon: Gotta Consensus Them All: A detailed summary of many different Paxos variants](https://vadosware.io/post/paxosmon-gotta-concensus-them-all/)
 * [Consensus in Presensus of Partial Synchrony](https://groups.csail.mit.edu/tds/papers/Lynch/jacm88.pdf)
 * [The latest gossip on BFT consensus](https://arxiv.org/abs/1807.04938)
+* [Blog: What is the difference between PBFT, Tendermint, SBFT and HotStuff ?](https://ittaiab.github.io/2019-06-23-what-is-the-difference-between/)
 
 ## Other
 
